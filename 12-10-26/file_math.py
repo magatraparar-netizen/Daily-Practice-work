@@ -91,6 +91,8 @@ result = math.ceil(number)
 
 print("Ceil:", result)
 
+
+
 # Random Module
 
 # random number 
